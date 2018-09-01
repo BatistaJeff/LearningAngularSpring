@@ -1,0 +1,8 @@
+{
+    "cursos":
+    [
+        {"codigo":"1","nome":"Java para web","diashorarios":"segunda e quarta, 19h","professor":"Neri"},
+        {"codigo":"2","nome":"React para web","diashorarios":"segunda e quarta,18h","professor":"Jeff"},
+        {"codigo":"3","nome":"Groovy para web","diashorarios":"segunda e quarta, 17h","professor":"Neri"}
+    ]
+}

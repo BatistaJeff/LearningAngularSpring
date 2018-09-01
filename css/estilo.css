@@ -1,0 +1,22 @@
+
+#idSistemaCadastro {
+    background-color: yellow;
+    color: tomato;
+}
+
+#idPesquisaLabel{
+
+    font-size: 22px;
+}
+
+th {
+    background: springgreen;
+}
+
+#idTituloH1 {
+    font-size: 65px;
+    text-shadow: 0px 4px #b2a98f,
+                 0px 15px 10px rgba(0,0,0,0.2),
+                 0px 15px 2px rgba(0,0,0,0.1),
+                 0px 15px 30px rgba(0,0,0,0.2)
+}
